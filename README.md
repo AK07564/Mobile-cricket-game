@@ -37,18 +37,34 @@ Mobile-cricket-game/
 
 ## Roadmap
 
-- [ ] Set up basic game engine and graphics
-- [ ] Implement cricket rules and match flow
-- [ ] Add DRS, boundary, and stumping systems
-- [ ] Develop multiplayer features
-- [ ] Release initial playable version
+# Project Roadmap
 
-## Contributing
+## Phase 1: Core Features
+- Develop the core cricket gameplay engine
+- Implement player controls and basic match flow
+- Integrate high-quality graphics for realistic experience
+- Apply full BCCI and standard cricket rules
 
-Interested in helping? Please open an issue or pull request!
+## Phase 2: Advanced Cricket Systems
+- Add Decision Review System (DRS)
+- Implement boundary checking logic
+- Add stumping system mechanics
+- Improve match UI and visual effects
 
-## License
+## Phase 3: Online & Multiplayer
+- Set up online gameplay infrastructure
+- Develop multiplayer matchmaking and lobby system
+- Add player profiles and statistics tracking
 
-Specify your license here (e.g., MIT, GPL).
+## Phase 4: Polish and Expand
+- Optimize graphics and performance across devices
+- Add sound effects and commentary
+- Expand stadiums, teams, and player customization
+- Introduce tournament and league modes
 
+## Phase 5: Launch & Community
+- Beta testing and bug fixing
+- Prepare documentation and in-game tutorials
+- Launch on app stores
+- Gather feedback and plan future updates
 ---
